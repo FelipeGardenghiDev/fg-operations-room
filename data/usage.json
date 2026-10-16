@@ -1,0 +1,11 @@
+{
+  "gemini_weekly": "83%",
+  "gemini_5h": "89%",
+  "claude_weekly": "100%",
+  "claude_5h": "100%",
+  "reset_gemini_5h": "2026-10-15T04:27:51Z",
+  "reset_gemini_weekly": "2026-10-21T02:26:48Z",
+  "reset_claude_5h": "2026-10-15T05:27:42Z",
+  "reset_claude_weekly": "2026-10-22T00:27:42Z",
+  "updated_at": "2026-10-15T00:27:51.000Z"
+}
